@@ -1,6 +1,14 @@
 ### Hi 👋
 My name is... Kiryl Panasik
 
+<div id="badges" align="left">
+  <a href="https://t.me/knpanasik">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stepik.org/users/528417726/">
+    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
+  </a> <br>
+</div>
 <!--
 **knpanasik/knpanasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
