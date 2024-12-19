@@ -7,7 +7,10 @@ My name is... Kiryl Panasik
   </a>
   <a href="https://stepik.org/users/528417726/">
     <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
-  </a> <br>
+  </a>
+  <a href="https://www.linkedin.com/in/kiryl-panasik/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
 </div>
 <!--
 **knpanasik/knpanasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
