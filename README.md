@@ -7,15 +7,17 @@ My name is... Kiryl Panasik.
 - I'm at the beginning of my way as data analyst (in September 2024 I was graduated from Data Analytics course at Yandex.Practicum),
 - also I'm fond of reading, swimming, travelling and solving difficult problems.
 
-#### Languages and Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="65" height="80"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;
-</div>
+<details>
+<summary> #### Languages and Tools: </summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
 
 #### You can contact me via:
 
