@@ -1,7 +1,7 @@
 ### Hi 👋
 My name is... Kiryl Panasik
 
-### You can contact me via:
+#### You can contact me via:
 
 <div id="badges" align="left">
   <a href="https://t.me/knpanasik">
