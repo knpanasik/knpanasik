@@ -1,12 +1,11 @@
 ### Hi 👋
 My name is... Kiryl Panasik
 
+### You can connect with me:
+
 <div id="badges" align="left">
   <a href="https://t.me/knpanasik">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://stepik.org/users/528417726/">
-    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/kiryl-panasik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
