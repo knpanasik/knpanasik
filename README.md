@@ -12,7 +12,6 @@ My name is... Kiryl Panasik.
 <summary> #### Languages and Tools: </summary>
 
 | Languages |
-|-----------|
 | JavaScript|
 | Python    |
 | SQL       |
