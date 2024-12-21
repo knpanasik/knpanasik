@@ -8,7 +8,7 @@ My name is... Kiryl Panasik.
 - also I'm fond of reading, swimming, travelling and solving difficult problems.
 
 #### Languages and Tools: 
-** `SQL`, `Tableau`, `PowerBI`, `Python`, `JupiterNotebook`, `DBeaver`, `Anaconda`
+* * `SQL`, `Tableau`, `PowerBI`, `Python`, `JupiterNotebook`, `DBeaver`, `Anaconda`
 
 #### You can contact me via:
 
