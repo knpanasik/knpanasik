@@ -5,7 +5,7 @@ My name is... Kiryl Panasik.
 - I'm passionate about analytics with a degree in economics and data analytics,
 - 12 years experience in banking (retail sales, financial analysis and risk-management),
 - I'm at the beginning of my way as data analyst (in September 2024 I was graduated from Data Analytics course at Yandex.Practicum),
-- I'm also fond of reading, swimming, travelling and solving difficult problems.
+- at the same time I'm fond of reading, swimming, travelling and solving difficult problems.
 
 #### Languages and Tools: 
 _`SQL`, `Python`, `Tableau`, `PowerBI`, `Jupyter Notebook`, `DBeaver`, `Anaconda`_
