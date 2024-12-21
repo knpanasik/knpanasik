@@ -1,5 +1,8 @@
 ### Hi 👋
-My name is... Kiryl Panasik
+My name is... Kiryl Panasik.
+
+### ⚡ About Me :
+
 
 #### You can contact me via:
 
