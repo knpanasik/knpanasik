@@ -11,11 +11,11 @@ My name is... Kiryl Panasik.
 <details>
 <summary> #### Languages and Tools: </summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+| Languages |
+|-----------|
+| JavaScript|
+| Python    |
+| SQL       |
 
 </details>
 
