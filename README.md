@@ -2,7 +2,10 @@
 My name is... Kiryl Panasik.
 
 #### ⚡ About Me :
-
+- I'm passionate about analytics with a degree in economics and data analytics,
+- I have 12 years experience in banking (retail sales, financial analysis and risk-management),
+- right now I'm at the beginning of my way as data analyst (in September 2024 I was successfully graduated from Data Analytics course at Yandex.Practicum),
+- I'm fond of reading, swimming, travelling and solving difficult problems.
 
 #### You can contact me via:
 
