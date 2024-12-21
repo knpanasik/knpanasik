@@ -7,16 +7,11 @@ My name is... Kiryl Panasik.
 - I'm at the beginning of my way as data analyst (in September 2024 I was graduated from Data Analytics course at Yandex.Practicum),
 - also I'm fond of reading, swimming, travelling and solving difficult problems.
 
-#### Languages and Tools:
-| Languages |
-|-----------|
-| JavaScript|
-
-`SQL`, `Tableau`, `PowerBI`, `Python`, `JupiterNotebook`, `DBeaver`, `Anaconda`
+#### Languages and Tools: `SQL`, `Tableau`, `PowerBI`, `Python`, `JupiterNotebook`, `DBeaver`, `Anaconda`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="80"/>&nbsp;
-  <img src ="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAASdJREFUSEvVlcENwjAMRT9nloBNYAxOwBCcgTNDACfGgE1gE+hDTZVacROKKoGlqmra+Od/f7sjDRyjgfPrJwBmkpaSuE9qxg9JXOv67gqRY0DCe7V7VyVaRQBxwmkXSA6ApFtJc0lXBwAWJ49CCcAxY4ReAJzcCwu4kTSuPz5buSwDNPek8AABOEQvWzWxAOhNQT+JhaRLtIF6INs7LACOCVYsBeHE7AuBfVlLAjydrLfEOonQHNb0SBzNwXMMSLyvG80y49ljWwxg9S2RrVMiLBhbtA8AJoF1sgbWptaCOQat06dcxBogcdFsYzUWNM4JAzBdbedoyDXIqAh4HkCQAv+jd+9h1zU6KCbXV+M61IQfTuyuoDeNlmrCRvHcuM65Jvv+/wFespY5GamOq0cAAAAASUVORK5CYII="/>
+  <img src="https://boxicons.com/" title="Python" alt="Python" width="65" height="80"/>&nbsp;
 </div>
 
 #### You can contact me via:
